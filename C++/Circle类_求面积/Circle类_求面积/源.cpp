@@ -39,6 +39,6 @@ int main()
 	Circle youcircle(r);
 	cout << "求得半径为" << r << "的园的面积为：" << youcircle.GetArea() << endl;
 
-	_getch();
+	_getch();//停留
 	return OK;
 }
